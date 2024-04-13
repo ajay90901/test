@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-dev
+    name: payer-daily
 eureka:
   client:
     fetch-registry: true
