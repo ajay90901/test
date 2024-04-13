@@ -1,6 +1,10 @@
 spring:
   application:
     name: payment-process
+    
+server:
+  port: 8443
+  
 eureka:
   client:
     fetch-registry: true
