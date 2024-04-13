@@ -3,7 +3,7 @@ spring:
     name: payer-daily-prod
     
 server:
-  port: 8443
+  port: 8442
   
 eureka:
   client:
