@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Name from
+    name: Name from Git
 eureka:
   client:
     fetch-registry: true
